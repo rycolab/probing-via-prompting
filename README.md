@@ -1,5 +1,5 @@
 # probing-via-prompting
-This repository is in accompany with the paper: [Probing via Prompting]().
+This repository is in accompany with the paper: [Probing via Prompting](https://arxiv.org/abs/2207.01736).
 
 ## Dependencies
 - python 3.8.5
